@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm373batch15-bg-11.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=330dde5a4191a3d87204a2f9b040e3fe");
+    background-size: cover;
+    
+}
+form{
+    margin: 10px;
+}
+.head{
+    color: aqua;
+    text-align: center;
+    font-size: 30PX;
+}
+input{
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.add{
+    font-size: 30px;
+    color: rgb(184, 199, 191);
+    text-align: center;
+}
+label{
+    color: white;
+    margin-right: 20px;
+    font-size: 18px;
+}
+.personalinfo{
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkgray;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.button{
+    border-radius: 10px;
+    border-width: 0px;
+    height: 30px;
+    width: 80px;
+}
